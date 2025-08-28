@@ -1,0 +1,10 @@
+# see https://github.com/sigoden/aichat/blob/main/config.example.yaml
+
+model: Khoa:sa
+clients:
+- type: openai-compatible
+  name: Khoa
+  api_base: '1928'
+  api_key: asas
+  models:
+  - name: sa
